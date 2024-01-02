@@ -57,8 +57,17 @@ BPM game or start learning how you properly apply this methodology.
 
 ## BPMN Modeling Tools and Frameworks
 
+- [Introducing the Model Interchange Working Grouo](https://www.omgwiki.org/bpmn-miwg/doku.php): The Model Interchange
+  Working Group (MIWG) is a group of vendors, consultants, and end-users who are interested in the exchange of models
+  between tools in the BPMN 2.0 format. The group is open to all interested parties and is currently working on a set of
+  test cases to validate the interchange of BPMN 2.0 models between tools. Besides, they are defining a set of
+  guidelines for tool vendors to follow to ensure that their tools can interoperate with other tools.
 - [bpmn-io](https://bpmn.io/): bpmn.io is a BPMN 2.0 rendering toolkit and web modeler. It helps you create BPMN
   diagrams in your browser.
+- [Camunda Desktop Modeler](): The Camunda Desktop Modeler is a desktop application for modeling BPMN workflows and DMN
+  decisions. It is based on the bpmn.io toolkit and is available for Windows, Mac and Linux.
+- [5Minds Studio](https://processcube.io/docs/studio/installation): The 5Minds Studio is a desktop application for modeling BPMN workflows. It is written using
+  Elektron and based on the bpmn.io toolkit.
 
 ## Workflow Engines
 
