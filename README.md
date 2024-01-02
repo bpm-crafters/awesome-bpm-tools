@@ -86,7 +86,17 @@ BPM game or start learning how you properly apply this methodology.
 
 ## Best Practices
 
+- [BPM Manifesto](): The BPM Manifesto is a collection of 5 principles for applying BPM. It is being maintained by this
+  community.
+
 ### BPMN Modelling Best-Practices
+
+- [Creating readable process models](
+  https://docs.camunda.io/docs/components/best-practices/modeling/creating-readable-process-models/)
+- [Naming BPMN elements](https://docs.camunda.io/docs/components/best-practices/modeling/naming-bpmn-elements/)
+- [Modelling beyond the happy path](https://docs.camunda.io/docs/components/best-practices/modeling/modeling-beyond-the-happy-path/)
+- [Modelling with Situation Patterns](https://docs.camunda.io/docs/components/best-practices/modeling/modeling-with-situation-patterns/)
+- [Building flexibility into BPMN models](https://docs.camunda.io/docs/components/best-practices/modeling/building-flexibility-into-bpmn-models/)
 
 ### Developer Best-Practices
 
