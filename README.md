@@ -58,6 +58,7 @@ Note: every engine also ships its own official, engine-specific client (e.g. Cam
 - [bpmn-js-properties-panel](https://github.com/bpmn-io/bpmn-js-properties-panel) - Properties panel to edit generic and Camunda-specific BPMN element properties in bpmn-js.
 - [camunda-bpmn-js](https://github.com/camunda/camunda-bpmn-js) - Camunda-flavored bpmn-js distributions (Camunda 7 & 8) with properties panel and linting preconfigured.
 - [bpmnlint](https://github.com/bpmn-io/bpmnlint) - Validate BPMN diagrams against configurable lint rules (CLI & library).
+- [bpmnlint-rules](https://github.com/Miragon/bpmnlint-rules) - Collection of reusable bpmnlint rules for validating BPMN diagrams against common modeling conventions.
 
 ## Testing & Coverage
 
