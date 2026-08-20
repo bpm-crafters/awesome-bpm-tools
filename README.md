@@ -89,8 +89,9 @@ Note: every engine also ships its own official, engine-specific client (e.g. Cam
 
 - [Camunda Connectors](https://github.com/camunda/connectors) - Connector SDK and out-of-the-box connectors to integrate Camunda 8 with external systems.
 - [camunda-platform-7-keycloak](https://github.com/camunda-community-hub/camunda-platform-7-keycloak) - Keycloak identity provider plugin for Camunda 7.
-- [zeebe-kafka-exporter](https://github.com/camunda-community-hub/zeebe-kafka-exporter) - Export Zeebe events to Apache Kafka.
-
+- [zeebe-kafka-exporter](https://github.com/camunda-community-hub/zeebe-kafka-exporter) - Export Zeebe events to Apache Kafka &
+  [fork of zeebe-kafka-exporter](https://github.com/Phactum/zeebe-kafka-exporter) ported up to Camunda 8.8.
+  
 ## AI & Analytics
 
 *Understand, analyse and improve BPMN processes with AI- and MCP-based tooling.*
