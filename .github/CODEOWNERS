@@ -1,0 +1,5 @@
+# CODEOWNERS
+# These owners are automatically requested for review on every pull request.
+# Docs: https://docs.github.com/articles/about-code-owners
+
+* @emaarco @Hafflgav
