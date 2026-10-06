@@ -104,8 +104,7 @@ Note: every engine also ships its own official, engine-specific client (e.g. Cam
 *Show live BPMN/DMN diagrams in talks and docs instead of blurry screenshots.*
 
 - [slidev](https://github.com/slidevjs/slidev) - Markdown-based presentation slides framework for developers.
-- [slidev-addon-bpmn](https://github.com/emaarco/slidev-addon-bpmn) - Display BPMN diagrams directly in Slidev, powered by bpmn.io.
-- [slidev-addon-dmn](https://github.com/emaarco/slidev-addon-dmn) - Display DMN diagrams directly in Slidev, powered by dmn.io.
+- [slidev-addon-diagram-js](https://github.com/emaarco/slidev-addon-diagram-js) - Display BPMN, DMN, Team Topologies, Wardley Maps and Event Storming diagrams directly in Slidev, powered by diagram-js.
 
 ## Code of Conduct
 
