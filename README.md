@@ -46,6 +46,7 @@ Note: every engine also ships its own official, engine-specific client (e.g. Cam
 
 - [Miragon BPMN Modeler](https://github.com/Miragon/bpmn-modeler) - BPMN modeler right in your IDE — supports VS Code & IntelliJ, with support for Camunda 7, Camunda 8, Operaton and CIB seven.
 - [Camunda Modeler](https://github.com/camunda/camunda-modeler) - Cross-platform desktop app for modeling BPMN, DMN and Forms.
+- [SimpleDiagrams](https://simplediagrams.com/desktop/bpmn/) - Commercial macOS app for sketch-style BPMN diagrams with events, tasks, gateways and swimlanes; visual modeling only, without BPMN XML export.
 
 ## Modeling Toolkits & Linting
 
