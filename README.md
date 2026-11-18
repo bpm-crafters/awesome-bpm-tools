@@ -73,6 +73,7 @@ Note: every engine also ships its own official, engine-specific client (e.g. Cam
 
 - [bpmn-to-code](https://github.com/Miragon/bpmn-to-code) - Gradle/Maven plugin that generates typed Process APIs (Kotlin/Java) from BPMN models.
 - [bpmn-to-image](https://github.com/bpmn-io/bpmn-to-image) - Convert BPMN and DMN diagrams to SVG, PNG or PDF from the command line.
+- [diagit](https://github.com/Miragon/diagit) - Browser extension that renders BPMN, DMN and other model files on GitHub and GitLab, with a visual before/after BPMN diff in pull and merge requests.
 - [camunda-modeler-i18n-plugin](https://github.com/Miragon/camunda-modeler-i18n-plugin) - Translates the Camunda Modeler UI into additional languages.
 - [camunda-dmn-xlsx](https://github.com/camunda-community-hub/camunda-dmn-xlsx) - Convert XLSX spreadsheets to and from DMN decision tables.
 
